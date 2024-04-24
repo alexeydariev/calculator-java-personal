@@ -8,7 +8,7 @@ public class Main {
         int b = Integer.parseInt(args[2]);;
         String oper = args[1];
         //System.out.println(oper.equals(String.valueOf('+')));
-        //int s = a + b
+        //int s = a + bgit
         if (oper.equals(String.valueOf('+'))){
             System.out.println(a + b);
         }
