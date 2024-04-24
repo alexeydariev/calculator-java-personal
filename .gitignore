@@ -31,3 +31,6 @@ bin/
 
 ### idea specific config
 .idea/
+.idea/**
+.token
+calculator.iml
